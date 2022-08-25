@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+
+body{
+    background-color: rgba(200, 215, 221, 0.993);
+    font-family: sans-serif;
+    color: #000;
+}
+
+/* qr-code */
+.container img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* qr text */
+ .qr-text{
+text-align: center;
+margin-top: 20px;
+}
+
+.container h1{
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+.container p{
+    margin-bottom: 10px;
+}

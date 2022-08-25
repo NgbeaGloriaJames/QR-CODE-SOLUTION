@@ -1,0 +1,36 @@
+.card {
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 100px auto;
+    color: #333;
+    width: 300px;
+  }
+
+  /* text sizes */
+  .sm {
+    font-size: 1.3rem;
+  }
+  .md {
+    font-size: 2rem;
+  }
+  .lg {
+    font-size: 3rem;
+  }
+  .xl {
+    font: 4rem;
+  }
+  
+  
+  /* PADDING */
+  .py-1 {
+    padding: 1rem 0;
+  }
+  .py-2 {
+    padding: 1.5rem 0;
+  }
+  .py-3 {
+    padding: 2rem 0;
+  }
+ 
