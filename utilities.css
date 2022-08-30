@@ -3,9 +3,10 @@
     border-radius: 15px;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
     padding: 20px;
-    margin: 100px auto;
     color: #333;
-    width: 300px;
+    width: 330px;
+    margin-right:1rem;
+    margin-left:1rem;
   }
 
   /* text sizes */
@@ -15,12 +16,7 @@
   .md {
     font-size: 2rem;
   }
-  .lg {
-    font-size: 3rem;
-  }
-  .xl {
-    font: 4rem;
-  }
+ 
   
   
   /* PADDING */
