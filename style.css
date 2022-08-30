@@ -8,6 +8,9 @@ body{
     background-color: rgba(200, 215, 221, 0.993);
     font-family: sans-serif;
     color: #000;
+    min-height: 100vh;
+    display:grid;
+    place-content: center;
 }
 
 /* qr-code */
@@ -28,4 +31,5 @@ margin-top: 20px;
 }
 .container p{
     margin-bottom: 10px;
+    font-size: 15px;
 }
